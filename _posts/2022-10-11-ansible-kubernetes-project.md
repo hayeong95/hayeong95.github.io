@@ -14,6 +14,6 @@ date: 2022-10-11
 last_modified_at: 2022-10-11
 ---
 
-# Ansible을 이용한 Kubernetes 클러스터 구축 및 운영 기록
+### Ansible을 이용한 Kubernetes 클러스터 구축 및 운영 기록
 
 [관련 ansible playbook 코드](https://github.com/hayeong95/ansible-kubernetes)
