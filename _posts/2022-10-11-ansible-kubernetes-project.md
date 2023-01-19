@@ -14,7 +14,6 @@ date: 2022-10-11
 last_modified_at: 2022-10-11
 ---
 
-
-베어메탈 환경의 kubernetes 클러스터 구축을 위한 ansible playbook 
+On-premise 환경의 kubernetes 클러스터 구축을 위한 ansible playbook 
 
 [관련 ansible playbook 코드](https://github.com/hayeong95/ansible-kubernetes)
