@@ -1,7 +1,7 @@
 ---
 title: "docker"
 layout: archive
-permalink: /docker
+permalink: /docker/
 ---
 
 

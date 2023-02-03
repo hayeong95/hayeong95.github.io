@@ -7,6 +7,8 @@ categories:
 tags:
   - [ML, 머신러닝, EnsembleLearning, 앙상블학습, bagging, boosting, randomforest, adaboost]
 
+permalink: /machine-learning/ML-ensemble-learning/
+
 toc: true
 toc_sticky: true
 

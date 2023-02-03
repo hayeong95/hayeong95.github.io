@@ -8,6 +8,8 @@ categories:
 tags:
   - [Ansible, Kubernetes]
 
+permalink: /kubernetes/ansible-kubernetes-project/
+
 toc: true
 toc_sticky: true
 

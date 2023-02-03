@@ -10,21 +10,22 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  sidebar-category:
-    - title: "카테고리"
-      childeren:
-        - title: "Kubernetes"
-          url: "/kubernetes/"
-          category: "kubernetes"
+  
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "Kubernetes"
+        url: "/kubernetes/"
+        category: "kubernetes"
 
-        - title: "Docker"
-          url: "/docker/"
-          category: "docker"
+      - title: "Docker"
+        url: "/docker/"
+        category: "docker"
 
-        - title: "Machine Learning"
-          url: "/machine-learning/"
-          category: "machine-learning"
+      - title: "Machine Learning"
+        url: "/machine-learning/"
+        category: "machine-learning"
 
-        - title: "Deep Learning"
-          url: "/deep-learning"
-          category: "deep-learning"
+      - title: "Deep Learning"
+        url: "/deep-learning/"
+        category: "deep-learning"

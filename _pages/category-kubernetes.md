@@ -1,7 +1,7 @@
 ---
 title: "kubernetes"
 layout: archive
-permalink: /kubernetes
+permalink: /kubernetes/
 ---
 
 

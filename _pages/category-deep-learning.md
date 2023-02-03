@@ -1,7 +1,7 @@
 ---
 title: "deep-learning"
 layout: archive
-permalink: /deep-learning
+permalink: /deep-learning/
 ---
 
 

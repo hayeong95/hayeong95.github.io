@@ -1,7 +1,7 @@
 ---
 title: "machinie-learning"
 layout: archive
-permalink: /machinie-learning
+permalink: /machinie-learning/
 ---
 
 

@@ -7,6 +7,8 @@ categories:
 tags:
   - [Docker, Container, M1, Tensorflow]
 
+permalink: /docker/docker-macos/
+
 toc: true
 toc_sticky: true
 
@@ -16,12 +18,10 @@ last_modified_at: 2023-01-27
 
 
 
-이슈: tensorflow docker image에서 `M1` 칩 지원이 안됨
-
+이슈: tensorflow docker image에서 `M1` 칩 지원이 안됨
 - `qemu: uncaught target signal 6 (Aborted) - core dumped`
 
 해결방법:  `linux/arm64/v8`로 인식되도록 도커 이미지 빌드/런 시 옵션 추가
-
 - `Rosetta 2` 설치 선행되어야 함
   
   - 참고: https://support.apple.com/ko-kr/HT211861
@@ -46,7 +46,7 @@ last_modified_at: 2023-01-27
   RUN apt update
   # python cv related packages
   RUN apt install -y libglib2.0-0 libgl1-mesa-glx
-  RUN apt install -y graphviz gcc git
+  RUN apt install -y graphviz gcc git vim
   
   RUN pip install --upgrade pip setuptools wheel
   RUN pip install tensorflow==2.10.0 # tensorflow-io==0.27.0
