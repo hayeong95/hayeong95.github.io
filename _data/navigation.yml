@@ -10,3 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  sidebar-category:
+    - title: "카테고리"
+      childeren:
+        - title: "Kubernetes"
+          url: "/kubernetes"
+        - title: "Docker"
+          url: "/docker"
+        - title: "Machine Learning"
+          url: "/machine-learning"
+        - title: "Deep Learning"
+          url: "/deep-learning"

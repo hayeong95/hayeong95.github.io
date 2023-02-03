@@ -3,7 +3,7 @@ title: "[ML/머신러닝] 앙상블 학습 (Ensemble Learning)"
 excerpt: "머신러닝 앙상블 학습 정리"
 
 categories:
-  - ML, 머신러닝, EnsembleLearning, 앙상블학습
+  - machine-learning
 tags:
   - [ML, 머신러닝, EnsembleLearning, 앙상블학습, bagging, boosting, randomforest, adaboost]
 

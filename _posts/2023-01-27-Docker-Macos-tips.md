@@ -3,9 +3,7 @@ title: "[Docker] M1 Chip에서 Docker Container 환경으로 Tensorflow 사용�
 excerpt: "M1 Chip에서 Docker Container 환경으로 Tensorflow 사용하기"
 
 categories:
-  - Docker
-  - M1
-  - Tensorflow
+  - docker
 tags:
   - [Docker, Container, M1, Tensorflow]
 
