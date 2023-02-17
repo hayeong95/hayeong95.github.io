@@ -27,12 +27,10 @@ last_modified_at: 2023-02-17
 - 도커 이미지 빌드/런 명령어
   
   ```powershell
-  docker build --platform=linux/amd64 . -t tensorflow
-  docker run --platform=linux/amd64 tensorflow
+  docker build --platform=linux/arm64/v8 . -t tensorflow
+  docker run --platform=linux/arm64/v8 tensorflow
   ```
-  - docker desktop 에 경고 문구 보임
-  - platform을 `linux/arm64/v8` 로 지정 시, 경고 문구 사라지고 tensorflow 잘 작동하나 여전히 `amd64` 기반이 아니여서 사용 시 일부 이슈 존재
-  - 우선 `linux/amd64`로 사용
+  - platform을 `linux/arm64/v8` 로 지정 시, 경고 문구 사라지고 tensorflow 잘 작동하나 여전히 `amd64` 기반이 아니여서 사용 시 일부 이슈 존재  
   
 
 - Dockerfile 예시
