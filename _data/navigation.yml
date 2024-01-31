@@ -29,3 +29,7 @@ sidebar-category:
       - title: "Deep Learning"
         url: "/deep-learning/"
         category: "deep-learning"
+
+      - title: "MLOps"
+        url: "/ml-ops/"
+        category: "ml-ops"
