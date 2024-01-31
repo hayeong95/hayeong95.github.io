@@ -1,9 +1,9 @@
 ---
-title: "docker"
+title: "dev"
 layout: archive
-permalink: /docker/
+permalink: /dev/
 ---
 
 
-{% assign posts = site.categories.docker %}
+{% assign posts = site.categories.dev %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

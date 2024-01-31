@@ -18,9 +18,9 @@ sidebar-category:
         url: "/kubernetes/"
         category: "kubernetes"
 
-      - title: "Docker"
-        url: "/docker/"
-        category: "docker"
+      - title: "개발환경"
+        url: "/dev/"
+        category: "dev"
 
       - title: "Machine Learning"
         url: "/machine-learning/"

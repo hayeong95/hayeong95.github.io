@@ -3,11 +3,11 @@ title: "[Docker] M1 Chip에서 Docker Container 환경으로 Tensorflow 사용�
 excerpt: "M1 Chip에서 Docker Container 환경으로 Tensorflow 사용하기"
 
 categories:
-  - docker
+  - dev
 tags:
   - [Docker, Container, M1, Tensorflow]
 
-permalink: /docker/docker-macos/
+permalink: /dev/docker-macos/
 
 toc: true
 toc_sticky: true
